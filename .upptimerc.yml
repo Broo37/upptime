@@ -20,7 +20,7 @@ sites:
     url: https://api.geisaforce.com
   - name: Geisa TA API - Dev
     url: https://dev-ta.geisaforce.com/api/Health/IsUp
-    method: HEAD
+    method: GET
     expectedStatusCodes:
       - 200
     slug: geisa-ta-api-dev
