@@ -19,11 +19,11 @@ sites:
   - name: Geisa API
     url: https://api.geisaforce.com
   - name: Geisa TA API - Dev
+    url: https://dev-ta.geisaforce.com/api/Health/IsUp
+    method: HEAD
     expectedStatusCodes:
       - 200
-    method: HEAD
-    url: https://dev-ta.geisaforce.com/api/Health/IsUp
-    slug: ta-geisa-dev
+    slug: geisa-ta-api-dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
