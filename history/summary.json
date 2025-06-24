@@ -40,7 +40,7 @@
     "url": "https://dev-ta.geisaforce.com/api/Health/IsUp",
     "icon": "https://icons.duckduckgo.com/ip3/dev-ta.geisaforce.com.ico",
     "slug": "geisa-ta-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 1079,
     "timeYear": 1079,
     "dailyMinutesDown": {
+      "2025-06-24": 0,
       "2025-06-03": 20
     }
   }
