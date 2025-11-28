@@ -1,7 +1,7 @@
 url: https://api.geisaforce.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-28T04:42:33.981Z
+status: up
+code: 200
+responseTime: 982
+lastUpdated: 2025-11-28T04:52:42.908Z
 startTime: 2025-06-03T03:01:23.896Z
 generator: Upptime <https://github.com/upptime/upptime>
