@@ -1,7 +1,7 @@
 url: https://dev-ta.geisaforce.com/api/Health/IsUp
-status: up
-code: 200
-responseTime: 4279
-lastUpdated: 2026-06-08T23:56:03.674Z
+status: down
+code: 503
+responseTime: 5990
+lastUpdated: 2026-06-16T12:28:02.488Z
 startTime: 2025-06-03T06:39:28.684Z
 generator: Upptime <https://github.com/upptime/upptime>
